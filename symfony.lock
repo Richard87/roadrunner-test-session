@@ -32,11 +32,20 @@
     "doctrine/reflection": {
         "version": "v1.0.0"
     },
+    "http-interop/http-factory-diactoros": {
+        "version": "1.0.0"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
     "psr/container": {
         "version": "1.0.0"
+    },
+    "psr/http-factory": {
+        "version": "1.0.0"
+    },
+    "psr/http-message": {
+        "version": "1.0.1"
     },
     "psr/log": {
         "version": "1.1.0"
@@ -52,6 +61,12 @@
             "version": "5.2",
             "ref": "fb7e19da7f013d0d422fa9bce16f5c510e27609b"
         }
+    },
+    "spiral/goridge": {
+        "version": "v2.1.2"
+    },
+    "spiral/roadrunner": {
+        "version": "v1.2.6"
     },
     "symfony/cache": {
         "version": "v4.2.1"
@@ -119,6 +134,9 @@
     "symfony/process": {
         "version": "v4.2.1"
     },
+    "symfony/psr-http-message-bridge": {
+        "version": "v1.1.0"
+    },
     "symfony/routing": {
         "version": "4.2",
         "recipe": {
@@ -142,5 +160,8 @@
     },
     "symfony/yaml": {
         "version": "v4.2.1"
+    },
+    "zendframework/zend-diactoros": {
+        "version": "1.8.6"
     }
 }
